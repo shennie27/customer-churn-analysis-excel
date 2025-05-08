@@ -28,7 +28,7 @@ Key features:
 - Intl Plan, Unlimited Plan, Monthly & Total Charges
 - Service usage (calls, minutes, GB usage)
 
-📎 *All data is fictional and created for educational purposes.*
+ *All data is fictional and created for educational purposes.*
 
 ---
 
